@@ -1,5 +1,5 @@
-Experimental Basic MIPS Simulator
-==================================
+Simple MIPS Simulator in JavaScript (Experimental)
+==================================================
 
 This is an experimental project after taking the computer architecture course during my undergraduate study. Basically it provides a basic playground for MIPS assembly. However, only a limited set of instructions are available due to limited time:
 
